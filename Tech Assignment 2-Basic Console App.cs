@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Program developed by: Caroline Hansen
+using System;
 
 namespace Tech_Assignment_2_Basic_Console_App
 {
@@ -6,7 +7,10 @@ namespace Tech_Assignment_2_Basic_Console_App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Display unique message
+            Console.WriteLine("One of my favorite quotes is by Nelson Mandela:");
+            Console.WriteLine("\"Education is the most powerful weapon which you can use to change the world.\"");
+            Console.WriteLine("Submitted by Caroline Hansen");
         }
     }
 }
